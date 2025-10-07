@@ -19,10 +19,11 @@ Designed to look like an AI-powered tool from a sci-fi world.
 ai-calculator/
 ├── package.json
 ├── server.js
-└── public/
-├── index.html
-├── style.css
-└── script.js
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md
 
 
 
